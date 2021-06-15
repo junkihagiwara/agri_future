@@ -1,0 +1,116 @@
+:root {
+  --log-cabin: #222222;
+  --pink-swan: #b7b7b7;
+  --san-felix: #18620e;
+  --white: #ffffff;
+
+  --font-size-l: 22px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xl: 26px;
+  --font-size-xs: 17px;
+  --font-size-xxl: 28px;
+  --font-size-xxs: 16px;
+  --font-size-xxxl: 30px;
+  --font-size-xxxs: 13px;
+  --font-size-xxxxl: 34px;
+  --font-size-xxxxs: 12px;
+  --font-size-xxxxxl: 40px;
+  --font-size-xxxxxxl: 45px;
+  --font-size-xxxxxxxl: 50px;
+  --font-size-xxxxxxxxl: 68px;
+
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-noto_sans_jp: "Noto Sans JP", Helvetica;
+}
+.montserrat-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.notosansjp-normal-log-cabin-16px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+.notosansjp-normal-log-cabin-12px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-pink-swan-20px {
+  color: var(--pink-swan);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.notosansjp-bold-log-cabin-16px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-log-cabin-20px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-log-cabin-50px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-log-cabin-30px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-log-cabin-28px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-san-felix-30px {
+  color: var(--san-felix);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-san-felix-20px {
+  color: var(--san-felix);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+.montserrat-bold-san-felix-22px {
+  color: var(--san-felix);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
